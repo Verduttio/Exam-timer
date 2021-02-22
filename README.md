@@ -6,6 +6,9 @@ Windows version should work on Windows 8, Windows 8.1 and Windows 10.
 
 Write me if you find any bugs or issues.
 
+Possible future updates: 
+- adding English language 
+
 ## Screenshots
 ![ex2](https://user-images.githubusercontent.com/72033031/108704891-e7908e80-750c-11eb-8928-1d629190a9b4.jpg)
 ![ex3](https://user-images.githubusercontent.com/72033031/108704893-e8292500-750c-11eb-8868-160878a26cde.jpg)
