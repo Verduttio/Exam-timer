@@ -7,8 +7,6 @@ Windows version should work on Windows 8, Windows 8.1 and Windows 10.
 
 Executable files are stored in `Windows` and `Android` directories.  
 
-Write me if you find any bugs or issues.
-
 Possible future updates: 
 - adding English language 
 
