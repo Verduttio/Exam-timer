@@ -11,7 +11,6 @@ Possible future updates:
 - adding English language 
 
 ## Screenshots
-
-![sc1](https://user-images.githubusercontent.com/72033031/181752017-09a153a2-59f0-4905-abeb-d069d9aaaa91.jpg)
-![sc2](https://user-images.githubusercontent.com/72033031/181752026-4b472950-7a5e-47ca-8435-bbac694e95d3.jpg)
-![sc3](https://user-images.githubusercontent.com/72033031/181752053-2bc85218-561c-4ff6-ad04-8c819c767317.jpg)
+![sc1](https://user-images.githubusercontent.com/72033031/181752171-a6381ec6-edbd-4fdd-9a1d-e538799ea944.jpg)
+![sc2](https://user-images.githubusercontent.com/72033031/181752175-718ddf9e-65b8-4d43-8781-72bf11497331.jpg)
+![sc3](https://user-images.githubusercontent.com/72033031/181752177-57ea2b26-934a-4011-a56d-678d3de586fc.jpg)
